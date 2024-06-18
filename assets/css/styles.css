@@ -607,3 +607,9 @@ footer .text-center {
         width: 50px;
     }
 }
+
+/* carosel */
+    #carouselExampleIndicators .carousel-item img {
+        height: 550px; /* Adjust the height as needed */
+        object-fit: cover;
+    }
